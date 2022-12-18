@@ -1,0 +1,44 @@
+#mara{
+    display: flex;
+    width: 50%;
+    padding-left: 40%;
+    
+}
+#one{
+    background-color: brown;
+    border-color: black;
+    padding: 15px;
+    width: 300px;
+    border: 2px solid orangered;
+    box-shadow: 5px 5px rgba(110, 130, 101, 0.3);
+    height: 100%;
+}
+#two{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+#three{
+    border-color: black;
+}
+#four{
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#five{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid orangered;
+    box-sizing: content-box;
+}
+.see{
+    font-weight: bold;
+}
+#six{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: cursive;
+}
